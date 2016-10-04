@@ -1,44 +1,17 @@
-# Ze
+# Django
 
-Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from https://www.subtraction.com/ of Khoi Vinh.
+​	Django is my private bolg.I will write some short stories, notes and boring daily lives here.This name 'Django' came form 《Django Unchained》.I hope my creativity and imagination can be unchained like him.
 
-> Everytime I look at a zebra, I can't figure out whether it's black with white stripes or white with black stripes, and that frustrates me.
+#### tags:
 
+- short stories:I like magical realism works like Kafka's *Metamorphosis*(just my opinion), but my favorite is Bernard  Shaw's *Retribution*.
+- notes:In order to learn some knowledge, I have to do some algorithmic questions.I will record the important part here.
+- daily lives:There are always some flash or dark places in our life~
 
-![Zebra](http://i.imgur.com/P51VcsP.png?1)
+#### contact
 
-## Demo
-Feel youself with a live demo here: http://zebra.ngoctran.me
+QQ or WeChat: 975444818 
 
-## Features
-1. Thanks to CSS framework Foundation, the site is mobile friendly.
-2. Highly customizable.
-3. Clear code syntax
-4. Support both Page and Post layouts.
-5. Enable Disqus comment.
+Finally,This blog built by Zebra which is a minimal Jekyll theme. 
 
-```
----
-title: Introduction
-layout: post
-comments: true
----
-```
-
-6. Custom code for centered and captioned images.
-
-```
-{% include image.html url="/images/<YOUR IMAGE>" description="<YOUR CAPTION>" %}
-```
-
-![](http://i.imgur.com/vfPLtKK.png)
-
-## Get started
-1. Fork the repository.
-2. Clone the repository: `git clone https://github.com/<YOUR USERNAME>/zebra`
-3. Install the GitHub Pages gem (included Jekyll): `bundle install`
-4. Start the Jekyll server: `jekyll server --watch`
-5. Open http://127.0.0.1:4000/ or http://localhost:4000/
-
-## Contact
-Pull requests are extremely welcome, otherwise can contact me via newbiettn at gmail dot com.
+homepages:https://github.com/newbiettn/zebra

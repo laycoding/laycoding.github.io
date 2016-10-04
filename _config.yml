@@ -15,10 +15,10 @@ kramdown:
   input:          GFM
   syntax_highlighter: rouge
 
-  # Rouge Highlighter in Kramdown â€?http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # Rouge Highlighter in Kramdown â€º http://kramdown.gettalong.org/syntax_highlighter/rouge.html
   # span, block element options fall back to global
   syntax_highlighter_opts:
-    # Rouge Options â€?https://github.com/jneen/rouge#full-options
+    # Rouge Options â€º https://github.com/jneen/rouge#full-options
     css_class: 'highlight'
     #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
     span:

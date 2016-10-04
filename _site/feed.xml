@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zebra</title>
+    <title>Django</title>
     <description>A zebra does not change its spots</description>
     <link>http://ngoctran.me/zebra/</link>
     <atom:link href="http://ngoctran.me/zebra//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;Hello World~&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0800</pubDate>
+        <link>http://ngoctran.me/zebra//2016/10/04/test/</link>
+        <guid isPermaLink="true">http://ngoctran.me/zebra//2016/10/04/test/</guid>
+      </item>
     
       <item>
         <title>Introduction</title>
@@ -189,17 +198,6 @@
         <pubDate>Sat, 15 Mar 2014 00:00:00 +0800</pubDate>
         <link>http://ngoctran.me/zebra//2014/03/15/sed-sit-amet-copy/</link>
         <guid isPermaLink="true">http://ngoctran.me/zebra//2014/03/15/sed-sit-amet-copy/</guid>
-      </item>
-    
-      <item>
-        <title>Etiam id arcu malesuada</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et dolor in tortor accumsan malesuada nec vel nibh. Praesent orci nisl, rutrum in mollis ut, aliquam in ipsum. Nam fermentum suscipit rutrum. Praesent at dolor ipsum. Etiam a turpis enim. Donec sit amet massa eu eros varius imperdiet. Aenean blandit justo at nunc eleifend, eu fringilla dui varius. Maecenas pretium porttitor neque, ut varius nisl placerat nec. Suspendisse id tincidunt quam. Ut eu molestie quam, non sollicitudin nisi. Nullam sodales vitae urna euismod placerat.&lt;/p&gt;
-
-&lt;p&gt;Vivamus urna sapien, condimentum sed lacus eu, congue vulputate est. Aenean a ultrices purus. Pellentesque sollicitudin, risus vel gravida malesuada, elit mi commodo nunc, a malesuada felis tortor vel turpis. Quisque fringilla tempus ante nec euismod. Phasellus porta condimentum mauris eu fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 15 Mar 2014 00:00:00 +0800</pubDate>
-        <link>http://ngoctran.me/zebra//2014/03/15/sed-sit-amet-copy-2/</link>
-        <guid isPermaLink="true">http://ngoctran.me/zebra//2014/03/15/sed-sit-amet-copy-2/</guid>
       </item>
     
   </channel>
